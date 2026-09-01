@@ -75,5 +75,5 @@ I’m a recent **Software Engineering graduate** building at the intersection of
 I’m open to **SWE/AI engineering **, especially roles where learning, experimentation, and strong software foundations come together.
 
 <a href="https://www.linkedin.com/in/aleyna-kılıç-ab71ab303/">
-  <img src="https://img.shields.io/badge/Let’s_connect_on_LinkIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aleyna on LinkedIn" />
+  <img src="https://img.shields.io/badge/Let’s_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aleyna on LinkedIn" />
 </a>
