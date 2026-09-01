@@ -1,25 +1,24 @@
 <p align="center">
-  <img src="assets/ai-engineer-banner.svg" alt="Aleyna Kılıç — Software Engineer building AI and ML systems" width="100%" />
+  <img src="ai-engineer-banner..png" alt="Aleyna Kılıç — Software Engineer building AI and ML systems" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aleyna-kılıç-ab71ab303/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Open_to-AI%2FML_Opportunities-22C55E?style=for-the-badge" alt="Open to AI and machine learning opportunities" />
+    
+ 
 </p>
 
-## `01 / SYSTEM PROFILE`
+## 💫 Hi, I’m Aleyna!  👋
 
 I’m a recent **Software Engineering graduate** building at the intersection of **machine learning, LLM systems, and scalable AI engineering**.
 
-- 🧠 I explore how models learn, remember, retrieve, and generate — from attention and tokenization to production-oriented RAG pipelines.
+- 🧠 I explore how models learn, remember, retrieve, and generate from attention and tokenization to production-oriented RAG pipelines.
 - 🔎 My recent work covers local Hugging Face inference, dense/sparse/hybrid retrieval, Reciprocal Rank Fusion, cross-encoder reranking, and retrieval evaluation.
-- ⚡ As one of two software engineers in a four-person capstone team, I co-developed a distributed continual-learning system that achieved **1.36% average catastrophic forgetting**. The project earned an **A**, and we plan to develop it into a research paper.
-- 🌐 During a 🇺🇸 exchange semester, I strengthened my foundations in algorithms and applied machine-learning concepts.
-- 🚀 I’m currently open to opportunities where I can grow while building thoughtful, measurable AI/ML systems.
+- ⚡ As one of two software engineers in capstone team, I co-developed a distributed continual-learning system that achieved **1.36% average catastrophic forgetting**. The project earned an **A**, and we plan to develop it into a research paper.
+- 🌐🇺🇸 During an exchange semester, I strengthened my foundations in algorithms and applied machine-learning concepts.
+- 🚀 I’m currently open to opportunities where I can grow while building thoughtful, measurable AI systems.
 
-## `02 / ENGINEERING FOCUS`
+## RECENT FOCUS
 
 <table>
   <tr>
@@ -44,7 +43,7 @@ I’m a recent **Software Engineering graduate** building at the intersection of
   </tr>
 </table>
 
-## `03 / AI ENGINEERING STACK`
+## ` AI ENGINEERING STACK`
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15" alt="Python" />
@@ -63,16 +62,18 @@ I’m a recent **Software Engineering graduate** building at the intersection of
 
 `LLMs` · `RAG` · `Embeddings` · `Vector Search` · `BM25` · `Hybrid Retrieval` · `Reranking` · `Continual Learning` · `PyTorch DDP` · `Experiment Evaluation`
 
-## `04 / LIVE DEVELOPER SIGNAL`
 
-<picture>
-  <img src="github-metrics.svg" alt="Aleyna's live GitHub metrics dashboard" width="100%" />
-</picture>
 
-## `05 / LET'S CONNECT`
+<p align="center">
+  <img src="github-isocalendar.svg" alt="Aleyna Kılıç's full-year isometric GitHub contribution calendar" width="50%" />
+</p>
 
-I’m open to **AI engineering and machine-learning opportunities**, especially roles where learning, experimentation, and strong software foundations come together.
+<sub>Automatically generated from public GitHub contribution data.</sub>
+
+## `LET'S CONNECT🙋🏼‍♀️`
+
+I’m open to **SWE/AI engineering **, especially roles where learning, experimentation, and strong software foundations come together.
 
 <a href="https://www.linkedin.com/in/aleyna-kılıç-ab71ab303/">
-  <img src="https://img.shields.io/badge/Let’s_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aleyna on LinkedIn" />
+  <img src="https://img.shields.io/badge/Let’s_connect_on_LinkIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aleyna on LinkedIn" />
 </a>
